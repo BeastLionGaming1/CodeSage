@@ -1,0 +1,25 @@
+{
+  "name": "ai-coder-mentor",
+  "version": "1.0.0",
+  "description": "Your AI sage for code—real-time guidance, best-practice tips, and smarter error handling as you build.",
+  "keywords": [
+    "CodeSage",
+    "AI",
+    "code"
+  ],
+  "homepage": "https://github.com/BeastLionGaming1/CodeSage#readme",
+  "bugs": {
+    "url": "https://github.com/BeastLionGaming1/CodeSage/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BeastLionGaming1/CodeSage.git"
+  },
+  "license": "MIT",
+  "author": "meshack_oyugi",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  }
+}
